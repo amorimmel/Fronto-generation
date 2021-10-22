@@ -1,0 +1,97 @@
+
+.html{
+    background-color: rgb(247, 174, 216);
+    flex-wrap:row ;
+}
+
+.bio {
+text-align: center;
+
+}
+
+.font{
+    font-family: Oswald;
+}
+
+.alinh{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+ul li {
+    display: flex;
+    display: inline;
+    padding: 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.ajuste{
+
+padding-left: 615px;
+font-size: 20px;
+}
+
+
+ul li a:hover
+{
+    text-align: center;
+    color: rgb(243, 4, 124);
+}
+
+
+.head {
+    font-size: 38px;
+    padding-left: 645px;
+}
+
+
+/*head pag contatos*/
+
+
+.head1 {
+    font-size: 38px;
+    padding-left: 600px;
+}
+
+/*
+conf pag de contatos*/
+
+.alinh1{
+    display: flex;
+    justify-content: start;
+    align-items:center;
+    padding-top: 35px;
+}
+
+
+.foto{
+    border-radius: 58%;
+    width: 500px;
+    height: 435px;
+}
+
+.logo-30{
+    width: 60px;
+    height: 60px;
+    padding: 15px;
+    
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+}
